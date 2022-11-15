@@ -1,6 +1,8 @@
 # 함수형 자바스크립트 프로그래밍
 
-![img](./images/FP_BookCover.jpeg)
+<p align="center" style="width: 400px; margin: 0 auto">
+    <img src="./images/FP_BookCover.jpeg">
+</p>
 
 ------
 
@@ -42,7 +44,7 @@
 | 1.2  | 함수형 자바스크립트의 실용성        | 4      | 정수민 |      |
 | 1.3  | 함수형 자바스크립트의 실용성2       | 14     | 김강현 |      |
 | 1.4  | 함수형 자바스크립트를 위한 기초     | 26     | 김태현 |      |
-| 1.5  | 정리                                | 49     | 김상초 |      |
+| 1.5  | 정리                                | 49     |  |      |
 
 
 
@@ -52,7 +54,7 @@
 
 | 장   | 제목                    | 페이지 | 작성자 | 완료 |
 | ---- | ----------------------- | ------ | ------ | ---- |
-| 2.1  | 객체와 대괄호 다시 보기 | 51     | 정수민 |      |
+| 2.1  | 객체와 대괄호 다시 보기 | 51     | 김상초 |      |
 
 
 
@@ -132,4 +134,4 @@
 
 ## 3. Reference
 
-- [이펙티브타입스크립트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273193135&start=slayer)
+- [함수형자바스크립트프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=123715872)
